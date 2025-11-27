@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="#">
-    <img src="./icon.png" alt="YakaTeam" title="YakaTeam" width=30%/>
+    <img src="./icon.png" alt="YakaTeam" title="YakaTeam" width=25%/>
 </a>
 
-# [Yaka](#) Team
+# [Yaka Team](#)
 
 </div>
 
