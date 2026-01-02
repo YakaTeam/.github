@@ -10,8 +10,8 @@
 
 ### What the hell is this?
 
-**This is a continuation of KN.** Nothing special. It was created from the need to use Android phone to read Manga / Comic / Doujinshi...
+**YAKA** *(Yet Another Kotatsu App)* **is an application for Android 6.0+ devices, based on the original Nightly application under the project name "*Yumemi*".** It was created from the need to use Android phone to read Manga / Comic / Doujinshi...
 
 ### Our works
 
-Inheriting from the previous success of KN, we will continue to develop these projects to extend support for them when possible by providing patches / fixes to the manga sources.
+Inheriting from the previous success, we will continue to develop these projects to extend support for them when possible by providing patches / fixes to these applications and all manga sources.
