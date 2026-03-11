@@ -4,14 +4,14 @@
     <img src="./icon.png" alt="YakaTeam" title="YakaTeam" width=30%/>
 </a>
 
-# [Yaka Team](#)
+# [YakaTeam](#)
 
 </div>
 
-### What the hell is this?
+### Who are we?
 
-**YAKA** *(Yet Another Kotatsu App)* **is an application for Android 6.0+ devices, based on the original Nightly application under the project name "*Yumemi*".** It was created from the need to use Android phone to read Manga / Comic / Doujinshi...
+We are a small community of manga readers / Kotatsu app users. With our strong passion and knowledge, we will strive to rebuild the community to provide the best possible manga reading experience.
 
 ### Our works
 
-Inheriting from the previous success, we will continue to develop these projects to extend support for them when possible by providing patches / fixes to these applications and all manga sources.
+Building on previous success, we will continue to develop these projects to expand support as much as possible by providing patches / fixes for all manga sources that included in previous projects.
