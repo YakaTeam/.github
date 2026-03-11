@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#">
-    <img src="./icon.png" alt="YakaTeam" title="YakaTeam" width=20%/>
+    <img src="./icon.png" alt="YakaTeam" title="YakaTeam" width=25%/>
 </a>
 
 # [YakaTeam](#)
